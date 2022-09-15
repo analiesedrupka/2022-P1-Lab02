@@ -17,6 +17,9 @@
       System.out.println("Bewilderment + Exposure = Obvious");
       System.out.println();
       System.out.println("# ##### #####     ##### ##### # #   # ##### #####");
-      System.out.println("# #   # #   #     #   # #   # # #")
+      System.out.println("# #   # #   #     #   # #   # # ##  #   #   #");
+      System.out.println("# #   # #   #     ##### #   # # # # #   #   #####");
+      System.out.println("# #   # #   #     #     #   # # #  ##   #       #");
+      System.out.println("# ##### #####     #     ##### # #   #   #   #####");
   }
   }
